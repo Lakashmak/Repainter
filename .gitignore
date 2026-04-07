@@ -1,0 +1,31 @@
+# ========== C# / Visual Studio ==========
+## Build results (ВСЕ версии)
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rchive/
+[Bb]in/
+[Oo]bj/
+bld/
+
+## Visual Studio 2015+
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Logs & temp
+*.log
+*.pdb
+*.cache
+*.config
+
+## OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
